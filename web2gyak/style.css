@@ -1,0 +1,24 @@
+header{
+    border-radius: 10px;
+    background-color: yellow;
+}
+
+footer{
+    border-radius: 10px;
+    background-color: purple;
+}
+
+.content{
+    border-radius: 10px;
+    background-color: beige;
+}
+
+nav{
+    border-radius: 10px;
+    background-color: orange;
+}
+
+.kep2{
+    border-width: 10px;
+    border-color: blue;
+}

@@ -1,0 +1,22 @@
+body{
+    background-image: url("plazma.jpg");
+}
+h1{
+    background-color:#3B3176 ;
+}
+h2{
+    background-color:#2A4C6F ;
+}
+h3{
+    background-color:#245E69 ;
+}
+
+h2+p{
+    background-color: #ccc;
+}
+
+p{
+    background-image: url("html1.gif");
+    background-repeat:no-repeat;
+    background-position: top right;
+}
